@@ -2,6 +2,7 @@
 title: API Reference
 
 language_tabs:
+  - Shri
   - shell
   - ruby
   - python
@@ -64,6 +65,14 @@ Kittn expects for the API key to be included in all API requests to the server i
 <aside class="notice">
 You must replace <code>meowmeowmeow</code> with your personal API key.
 </aside>
+
+# Geocode Address
+
+### **Description**
+Use this API to get geographic coordinates for a given address along with GIS score and Locator name
+
+**a.**	Choose BestMatch in requestSubject  to get  exact match for a given address
+
 
 # Kittens
 
